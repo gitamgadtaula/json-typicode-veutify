@@ -4,7 +4,7 @@ import axios from 'axios'
 Vue.use(Vuex)
 
 const $axios = axios.create({
-  baseURL: 'https://jsonplaceholder.typicode.com/',
+  baseURL: 'http://localhost:3000',
 });
 export default new Vuex.Store({
   state: {

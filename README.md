@@ -1,6 +1,12 @@
 # json-typicode
 
 ## Project setup
+You have Json-server installed on your machine to simulate the backend
+
+```
+npm install -g json-server
+```
+
 ```
 npm install
 ```
